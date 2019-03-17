@@ -1,0 +1,24 @@
+{
+  "name": "marcus",
+  "version": "5.0.0-a",
+  "main": "src/index.js",
+  "author": "Jake & Marc",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "eris": "^0.9.0",
+    "eris-additions": "^1.2.5",
+    "eris-lavalink": "^1.0.2",
+    "mathjs": "^5.4.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.2.2",
+    "mongodb": "^3.1.10",
+    "package.json": "^2.0.1",
+    "superagent": "^4.1.0"
+  },
+  "scripts": {
+    "start": "npm i && node ."
+  }
+}

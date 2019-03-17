@@ -1,0 +1,21 @@
+{
+	"token": "MjkyMDcwOTQ4MzE4NzQwNDgx.DzvP4g.23VTxd1aTTOJMTI-Cc-Q6sal7u8",
+	"clientID": "292070948318740481",
+	"prefix": "m!",
+	"databaseURL": "mongodb://localhost:27017/marcus",
+	"owners": ["135491386530070528", "116293018742554625"],
+	"shards": 2,
+	"version": "5.02.1",
+
+	"geniusKey": "Bearer -R6UbZnJZJHvELRPdSUjnAsoKrVwhZNg3CJtzFmg1YjCeRlpph7x6QfJJxaZWS0e",
+
+	"lavalink": {
+		"nodes": [{
+			"host": "51.75.255.127",
+			"port": 7123,
+			"region": "eu",
+			"password": "jajH8TCVB8",
+			"name": "Europe"
+		}]
+	}
+}
